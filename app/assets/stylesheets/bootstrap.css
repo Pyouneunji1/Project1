@@ -179,10 +179,6 @@ textarea {
 optgroup {
   font-weight: bold;
 }
-table {
-  border-spacing: 0;
-  border-collapse: collapse;
-}
 td,
 th {
   padding: 0;
@@ -2256,9 +2252,6 @@ caption {
   padding-top: 8px;
   padding-bottom: 8px;
   color: #777;
-  text-align: left;
-}
-th {
   text-align: left;
 }
 .table {
