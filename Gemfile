@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'devise'
 gem 'day_schedule_selector', '0.1.0', { git: 'https://github.com/starsirius/day-schedule-selector.git', branch: 'master' }
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
